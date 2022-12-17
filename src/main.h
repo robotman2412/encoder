@@ -8,6 +8,7 @@ extern "C" {
 #endif
 
 void decoderISR(uint gpio, uint32_t event_mask);
+void zeroISR();
 uint readState();
 int main();
 
