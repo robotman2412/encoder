@@ -1,0 +1,8 @@
+
+Encoder pinout:
+Red: VCC
+White: A
+Green: B
+Black: 0V
+Shield: GND
+
